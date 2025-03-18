@@ -19,3 +19,16 @@ This project is a simple Todo List API built with Flask. It demonstrates how to 
 
   ```bash
   pip install flask
+
+### Running the Application
+- **Save the Code**: Save the provided code in a file, for example, app.py.
+
+- **Navigate** to the Directory: Open your terminal and navigate to the directory containing app.py.
+
+- **Run the App**: Start the application with:
+   ```bash
+   python app.py
+
+- **Access the API**: Open your web browser and visit http://127.0.0.1:5000/ to see the welcome message.
+
+
